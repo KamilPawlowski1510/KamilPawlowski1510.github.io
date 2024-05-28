@@ -1,1 +1,1 @@
-Hello there weary traveller!
+This is my github.io page showing off some of my skills and past work
