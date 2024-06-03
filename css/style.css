@@ -2,6 +2,38 @@ p{
     font-family: "Lucida Console" !important;
 }
 
-body{
-    background-color: ivory
+body, .item{
+    background-color: #303030;
+    color: lightgray !important;
+}
+
+.menu{
+    border-bottom-color: lightgray !important;
+}
+
+.gallery{
+    margin: 2em 3em 2em 3em;
+}
+
+header{
+    margin-bottom: 3em;
+}
+
+.project{
+    margin-top: 2em;
+    margin-bottom: 4em;
+}
+
+.date{
+    color: gray; 
+    font-size: 0.9em;
+}
+
+.repo-link{
+    text-align: right;
+    display: block;
+}
+
+.click-to-view{
+    text-align: center;
 }
